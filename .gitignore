@@ -1,0 +1,25 @@
+# Obsidian 专属
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/starred.json
+.obsidian/search.json
+
+# 附件（大文件）
+Attachments/*.mp4
+Attachments/*.zip
+Attachments/*.exe
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+
+# 日志文件
+*.log
